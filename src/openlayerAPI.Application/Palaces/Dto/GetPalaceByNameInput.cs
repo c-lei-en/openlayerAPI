@@ -9,11 +9,5 @@ namespace openlayerAPI.Palaces.Dto
     {
         [Required]
         public string Name { get; set; }
-
-        [Required]
-        public string province { get; set; }
-
-        [Required]
-        public string Information { get; set; }
     }
 }

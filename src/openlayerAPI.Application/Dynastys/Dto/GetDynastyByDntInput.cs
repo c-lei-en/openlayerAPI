@@ -9,8 +9,5 @@ namespace openlayerAPI.Dynastys.Dto
     {
         [Required]
         public string Dnt { get; set; }
-
-        [Required]
-        public string Ifm { get; set; }
     }
 }
